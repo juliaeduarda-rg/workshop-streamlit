@@ -4,4 +4,4 @@ import numpy as np
 
 st.title('TITULO')
 
-streamlit run streamlit_app.py
+st run uber_pickups.py
